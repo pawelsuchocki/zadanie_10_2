@@ -1,5 +1,5 @@
-	var span = $('span');
-	    paragraphs = $('p');
+	var span = $('span'),
+	    paragraphs = $('p'),
 	    button = '<button class="btn" data-tmp="' + index + '">Click me</button>';
 
     span.each(function(index, element) {
